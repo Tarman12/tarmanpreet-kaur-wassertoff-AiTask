@@ -1,0 +1,6 @@
+pip install langchain 
+pip install huggingface-hub 
+pip install sentence-transformers 
+pip install chromadb %pip install -qU langchain-text-splitters 
+pip install unstructured[pdf] 
+pip install langchain-community
